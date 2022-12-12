@@ -8,4 +8,10 @@ creating a file write touvh
 how to find in git hwere are you in git
 to see hidden ls -al it will show any hidden folders
 new Branch vreation
+Merging code togather
+
 */
+hello i am raza
+for(let i=0;i<10;i++){
+    
+}
